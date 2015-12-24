@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For Lcd12864Shield Library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+Lcd12864Shield	KEYWORD2
+initialLcd	KEYWORD2
+transferCommand	KEYWORD2
+transferData	KEYWORD2
+lcdAddress	KEYWORD2
+clearScreen	KEYWORD2
+drawXLine	KEYWORD2
+drawYLine	KEYWORD2
+drawWord	KEYWORD2
+drawLetter	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
+
+
